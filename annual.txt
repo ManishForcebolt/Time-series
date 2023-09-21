@@ -1,0 +1,7 @@
+month	avgHigh	season	schoolIn
+Jan	38	Winter	yes
+Feb	41	Winter	yes
+Mar	47	Spring	yes
+Apr	56	Spring	yes
+May	69	Spring	yes
+Jun	81	Summer	no
